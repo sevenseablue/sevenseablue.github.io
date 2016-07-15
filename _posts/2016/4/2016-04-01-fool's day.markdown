@@ -1,0 +1,30 @@
+---
+layout:     post
+random-img: true
+title:      fool's day
+subtitle:   fool
+date:       2016-04-01 12:44:31
+author:     sevenseablue
+description: i can fool you, you can fool me, we are fools. 
+keywords: fool
+tags:
+    - life
+---
+
+life is like a box of choclate, you never know who will fool you next time.
+
+## fool me
+
+愚蠢的人， 来愚弄我吧。
+
+```javascript
+   System.out.println("you are fooled!");
+```
+
+## fool you
+
+嘿嘿 
+
+```javascript
+  System.out.println("HEIHEI");
+```
